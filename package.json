@@ -4,7 +4,8 @@
     "description": "Project to quickly get something working in [p5.js](https://p5js.org/) and [typescript](https://www.typescriptlang.org/)",
     "scripts": {
         "start": "npx vite --open",
-        "build": "npx vite build"
+        "build": "npx vite build --base p5-typescript-starter",
+        "deploy": "npx gh-pages -d dist"
     },
     "homepage": "https://github.com/Gaweph/p5-typescript-starter#readme",
     "devDependencies": {

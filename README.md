@@ -6,7 +6,7 @@ This is a fork of [Gaweph/p5-typescript-starter](https://github.com/Gaweph/p5-ty
 
 ## Demo
 
-**[Click here for Demo](https://gaweph.github.io/p5-typescript-starter/)**
+**[Click here for Demo](https://flytaly.github.io/p5-typescript-starter/)**
 
 ![Demo](./p5-typescript-demo.png?raw=true 'Demo')
 
